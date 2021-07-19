@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SimpleNotes_ReactJS_build/static/css/main.85e6b7ae.chunk.css",
-    "main.js": "/SimpleNotes_ReactJS_build/static/js/main.c83ffa4f.chunk.js",
-    "main.js.map": "/SimpleNotes_ReactJS_build/static/js/main.c83ffa4f.chunk.js.map",
+    "main.js": "/SimpleNotes_ReactJS_build/static/js/main.658af4bd.chunk.js",
+    "main.js.map": "/SimpleNotes_ReactJS_build/static/js/main.658af4bd.chunk.js.map",
     "runtime-main.js": "/SimpleNotes_ReactJS_build/static/js/runtime-main.f45e22e2.js",
     "runtime-main.js.map": "/SimpleNotes_ReactJS_build/static/js/runtime-main.f45e22e2.js.map",
     "static/js/2.95fd0cc6.chunk.js": "/SimpleNotes_ReactJS_build/static/js/2.95fd0cc6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f45e22e2.js",
     "static/js/2.95fd0cc6.chunk.js",
     "static/css/main.85e6b7ae.chunk.css",
-    "static/js/main.c83ffa4f.chunk.js"
+    "static/js/main.658af4bd.chunk.js"
   ]
 }
