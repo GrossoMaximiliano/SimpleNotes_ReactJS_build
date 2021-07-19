@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SimpleNotes_ReactJS_build/static/css/main.18ab6e58.chunk.css",
+    "main.js": "/SimpleNotes_ReactJS_build/static/js/main.c83ffa4f.chunk.js",
+    "main.js.map": "/SimpleNotes_ReactJS_build/static/js/main.c83ffa4f.chunk.js.map",
+    "runtime-main.js": "/SimpleNotes_ReactJS_build/static/js/runtime-main.f45e22e2.js",
+    "runtime-main.js.map": "/SimpleNotes_ReactJS_build/static/js/runtime-main.f45e22e2.js.map",
+    "static/js/2.95fd0cc6.chunk.js": "/SimpleNotes_ReactJS_build/static/js/2.95fd0cc6.chunk.js",
+    "static/js/2.95fd0cc6.chunk.js.map": "/SimpleNotes_ReactJS_build/static/js/2.95fd0cc6.chunk.js.map",
+    "static/js/3.ee8f9220.chunk.js": "/SimpleNotes_ReactJS_build/static/js/3.ee8f9220.chunk.js",
+    "static/js/3.ee8f9220.chunk.js.map": "/SimpleNotes_ReactJS_build/static/js/3.ee8f9220.chunk.js.map",
+    "index.html": "/SimpleNotes_ReactJS_build/index.html",
+    "static/css/main.18ab6e58.chunk.css.map": "/SimpleNotes_ReactJS_build/static/css/main.18ab6e58.chunk.css.map",
+    "static/js/2.95fd0cc6.chunk.js.LICENSE.txt": "/SimpleNotes_ReactJS_build/static/js/2.95fd0cc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f45e22e2.js",
+    "static/js/2.95fd0cc6.chunk.js",
+    "static/css/main.18ab6e58.chunk.css",
+    "static/js/main.c83ffa4f.chunk.js"
+  ]
+}
